@@ -32,8 +32,8 @@ static ComPtr<IDWriteTextFormat> textFormat;
 
 // Timer state
 static std::chrono::steady_clock::time_point startTime;
-static int focusMinutes = 25;
-static int breakMinutes = 5;
+static int focusMinutes = 60;
+static int breakMinutes = 15;
 static int rounds = 4;
 static int currentRound = 1;
 static bool inFocus = true;
