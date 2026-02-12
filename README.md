@@ -2,22 +2,24 @@
 
 simple pomodoro timer
 
+*for personal use only*    
 
+by default:
 
-for personal use only
+- focus time: 60 minutes 
 
+- break time: 15 minutes
 
+// TODO: adjustable focus time - it must be adjustable during anytime
 
-by default
+// TODO: adjustable break time - it must be adjustable during anytime
 
-focus time: 60 minutes 
+// TODO: shrink size with time remaining (maybe feature)
 
-break time: 15 minutes
+// TODO: add pause during remaining time
 
+// TODO: add stop during remaining time
 
+// TODO: display round count
 
-// TODO: adjustable focus time
-
-// TODO: adjustable break time
-
-// TODO: shrink size with time remaining
+// TODO: adjustable round count
